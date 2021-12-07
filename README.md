@@ -1,4 +1,4 @@
-# Network_Security_Labs
+# Network Security Labs
 ## SEED Labs 2.0
 
 These labs cover the most important types of security breaches and ways to prevent them.
